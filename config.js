@@ -9,8 +9,8 @@ const CONFIG = {
 
   // ຕຳແໜ່ງທີ່ອ​ນຸ​ຍາດ (ທີ່ຕັ້ງຫ້ອງການ)
   ALLOWED_LOCATION: {
-    lat: 20.934972795617405,   // ← ໃສ່ Latitude ຂອງທ່ານ
-    lng: 101.39931016553159,  // ← ໃສ່ Longitude ຂອງທ່ານ
+    lat: 20.93496,   // ← ໃສ່ Latitude ຂອງທ່ານ
+    lng: 101.39941,  // ← ໃສ່ Longitude ຂອງທ່ານ
     radius: 30     // ລັດສະໝີ ເປັນ ແມັດ (meters)
   },
 
